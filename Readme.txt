@@ -4,4 +4,4 @@ Github reppository : https://github.com/rockyrif/OCTANET_DECEMBER
 
 Task links:
 
-,Task-1 : https://rockyrif.github.io/OCTANET_DECEMBER/task-1
+Task-1 : https://rockyrif.github.io/OCTANET_DECEMBER/task-1
